@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="My Suite">
+	<test name="MyTest">
+		<classes>
+			<class name="tests.TestScenariosToAutomate">
+			</class>
+		</classes>
+		<groups>
+			<run>
+				<include name="Smoke" />
+				<include name="Functional" />
+				<include name="Data-driven" />
+				<include name="negative" />
+			</run>
+		</groups>
+	</test>
+</suite>
