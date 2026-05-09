@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-09T18:51:47 IST" name="Default suite" finished-at="2026-05-09T18:52:09 IST" duration-ms="21926">
+    <groups>
+    </groups>
+    <test started-at="2026-05-09T18:51:47 IST" name="Default test" finished-at="2026-05-09T18:52:09 IST" duration-ms="21926">
+      <class name="telecome_RestAssured_Capstone3.TestCases">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:51:47 IST" name="setupReport" finished-at="2026-05-09T18:51:47 IST" duration-ms="677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method signature="TC01_AddUser()[pri:1, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:51:48 IST" name="TC01_AddUser" finished-at="2026-05-09T18:51:55 IST" duration-ms="7660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_AddUser -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:51:55 IST" name="getResult" finished-at="2026-05-09T18:51:55 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_AddUser status=SUCCESS method=TestCases.TC01_AddUser()[pri:1, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC02_GetUserProfile()[pri:2, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:51:55 IST" name="TC02_GetUserProfile" finished-at="2026-05-09T18:51:57 IST" duration-ms="1585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_GetUserProfile -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:51:57 IST" name="getResult" finished-at="2026-05-09T18:51:57 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02_GetUserProfile status=SUCCESS method=TestCases.TC02_GetUserProfile()[pri:2, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC03_UpdateUser()[pri:3, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:51:57 IST" name="TC03_UpdateUser" finished-at="2026-05-09T18:51:58 IST" duration-ms="1605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_UpdateUser -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:51:58 IST" name="getResult" finished-at="2026-05-09T18:51:58 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC03_UpdateUser status=SUCCESS method=TestCases.TC03_UpdateUser()[pri:3, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC04_LoginUser()[pri:4, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:51:58 IST" name="TC04_LoginUser" finished-at="2026-05-09T18:52:00 IST" duration-ms="1589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_LoginUser -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:00 IST" name="getResult" finished-at="2026-05-09T18:52:00 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC04_LoginUser status=SUCCESS method=TestCases.TC04_LoginUser()[pri:4, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC05_AddContact()[pri:5, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:00 IST" name="TC05_AddContact" finished-at="2026-05-09T18:52:02 IST" duration-ms="1646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_AddContact -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:02 IST" name="getResult" finished-at="2026-05-09T18:52:02 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC05_AddContact status=SUCCESS method=TestCases.TC05_AddContact()[pri:5, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC06_GetContactList()[pri:6, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:02 IST" name="TC06_GetContactList" finished-at="2026-05-09T18:52:03 IST" duration-ms="1577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_GetContactList -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:03 IST" name="getResult" finished-at="2026-05-09T18:52:03 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC06_GetContactList status=SUCCESS method=TestCases.TC06_GetContactList()[pri:6, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC07_GetSingleContact()[pri:7, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:03 IST" name="TC07_GetSingleContact" finished-at="2026-05-09T18:52:05 IST" duration-ms="1389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07_GetSingleContact -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:05 IST" name="getResult" finished-at="2026-05-09T18:52:05 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC07_GetSingleContact status=SUCCESS method=TestCases.TC07_GetSingleContact()[pri:7, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC08_UpdateFullContact()[pri:8, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:05 IST" name="TC08_UpdateFullContact" finished-at="2026-05-09T18:52:06 IST" duration-ms="1561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC08_UpdateFullContact -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:06 IST" name="getResult" finished-at="2026-05-09T18:52:06 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC08_UpdateFullContact status=SUCCESS method=TestCases.TC08_UpdateFullContact()[pri:8, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC09_UpdatePartialContact()[pri:9, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:06 IST" name="TC09_UpdatePartialContact" finished-at="2026-05-09T18:52:08 IST" duration-ms="1633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC09_UpdatePartialContact -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:08 IST" name="getResult" finished-at="2026-05-09T18:52:08 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC09_UpdatePartialContact status=SUCCESS method=TestCases.TC09_UpdatePartialContact()[pri:9, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC10_LogoutUser()[pri:10, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:08 IST" name="TC10_LogoutUser" finished-at="2026-05-09T18:52:09 IST" duration-ms="1527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10_LogoutUser -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:09 IST" name="getResult" finished-at="2026-05-09T18:52:09 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC10_LogoutUser status=SUCCESS method=TestCases.TC10_LogoutUser()[pri:10, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:telecome_RestAssured_Capstone3.TestCases@1aafa419]" started-at="2026-05-09T18:52:10 IST" name="tearDown" finished-at="2026-05-09T18:52:10 IST" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- telecome_RestAssured_Capstone3.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
