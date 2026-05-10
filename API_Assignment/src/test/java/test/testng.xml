@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="PetStore API Test Suite">
+
+    <test name="PetStore API Tests">
+
+        <classes>
+
+            <!-- Main PetStore Tests -->
+            <class name="test.PETSTORETEST"/> 
+
+            <!-- HashMap API Test -->
+            <class name="test.HASHMAPTEST"/>
+
+            <!-- POJO API Test -->
+            <class name="test.POJOTEST"/>
+
+            <!-- OAuth API Test -->
+            <class name="test.OAuthTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>

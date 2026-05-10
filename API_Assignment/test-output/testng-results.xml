@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-10T13:08:46 IST" name="PetStore API Test Suite" finished-at="2026-05-10T13:08:57 IST" duration-ms="11423">
+    <groups>
+    </groups>
+    <test started-at="2026-05-10T13:08:46 IST" name="PetStore API Tests" finished-at="2026-05-10T13:08:57 IST" duration-ms="11423">
+      <class name="test.PETSTORETEST">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:test.PETSTORETEST@33d512c1]" started-at="2026-05-10T13:08:45 IST" name="setupReport" finished-at="2026-05-10T13:08:46 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method signature="TC01_FindPetByStatus()[pri:1, instance:test.PETSTORETEST@33d512c1]" started-at="2026-05-10T13:08:46 IST" name="TC01_FindPetByStatus" finished-at="2026-05-10T13:08:50 IST" duration-ms="3969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_FindPetByStatus -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:test.PETSTORETEST@33d512c1]" started-at="2026-05-10T13:08:50 IST" name="getResult" finished-at="2026-05-10T13:08:50 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_FindPetByStatus status=SUCCESS method=PETSTORETEST.TC01_FindPetByStatus()[pri:1, instance:test.PETSTORETEST@33d512c1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC02_AddPet()[pri:2, instance:test.PETSTORETEST@33d512c1]" started-at="2026-05-10T13:08:50 IST" name="TC02_AddPet" finished-at="2026-05-10T13:08:51 IST" duration-ms="1565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_AddPet -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:test.PETSTORETEST@33d512c1]" started-at="2026-05-10T13:08:51 IST" name="getResult" finished-at="2026-05-10T13:08:51 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02_AddPet status=SUCCESS method=PETSTORETEST.TC02_AddPet()[pri:2, instance:test.PETSTORETEST@33d512c1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC03_FindPetById()[pri:3, instance:test.PETSTORETEST@33d512c1]" started-at="2026-05-10T13:08:51 IST" name="TC03_FindPetById" finished-at="2026-05-10T13:08:53 IST" duration-ms="1532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_FindPetById -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:test.PETSTORETEST@33d512c1]" started-at="2026-05-10T13:08:53 IST" name="getResult" finished-at="2026-05-10T13:08:53 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC03_FindPetById status=SUCCESS method=PETSTORETEST.TC03_FindPetById()[pri:3, instance:test.PETSTORETEST@33d512c1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC04_UpdatePet()[pri:4, instance:test.PETSTORETEST@33d512c1]" started-at="2026-05-10T13:08:53 IST" name="TC04_UpdatePet" finished-at="2026-05-10T13:08:54 IST" duration-ms="1538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_UpdatePet -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:test.PETSTORETEST@33d512c1]" started-at="2026-05-10T13:08:54 IST" name="getResult" finished-at="2026-05-10T13:08:54 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC04_UpdatePet status=SUCCESS method=PETSTORETEST.TC04_UpdatePet()[pri:4, instance:test.PETSTORETEST@33d512c1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="TC05_DeletePet()[pri:5, instance:test.PETSTORETEST@33d512c1]" started-at="2026-05-10T13:08:54 IST" name="TC05_DeletePet" finished-at="2026-05-10T13:08:56 IST" duration-ms="1525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_DeletePet -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:test.PETSTORETEST@33d512c1]" started-at="2026-05-10T13:08:56 IST" name="getResult" finished-at="2026-05-10T13:08:56 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC05_DeletePet status=SUCCESS method=PETSTORETEST.TC05_DeletePet()[pri:5, instance:test.PETSTORETEST@33d512c1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.PETSTORETEST@33d512c1]" started-at="2026-05-10T13:08:57 IST" name="tearDown" finished-at="2026-05-10T13:08:57 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.PETSTORETEST -->
+      <class name="test.POJOTEST">
+        <test-method signature="createObjectUsingPojo()[pri:0, instance:test.POJOTEST@618b19ad]" started-at="2026-05-10T13:08:57 IST" name="createObjectUsingPojo" finished-at="2026-05-10T13:08:57 IST" duration-ms="3" status="FAIL">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+Cannot instantiate the type Data
+XZ cannot be resolved to a variable
+Syntax error on token "*", invalid AssignmentOperator
+The method setYear(int) is undefined for the type Data
+The method setPrice(double) is undefined for the type Data
+The method setCPUmodel(String) is undefined for the type Data
+The method setHarddisksize(String) is undefined for the type Data
+Objects cannot be resolved to a type
+Objects cannot be resolved to a type
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+Cannot instantiate the type Data
+XZ cannot be resolved to a variable
+Syntax error on token "*", invalid AssignmentOperator
+The method setYear(int) is undefined for the type Data
+The method setPrice(double) is undefined for the type Data
+The method setCPUmodel(String) is undefined for the type Data
+The method setHarddisksize(String) is undefined for the type Data
+Objects cannot be resolved to a type
+Objects cannot be resolved to a type
+
+at test.POJOTEST.createObjectUsingPojo(POJOTEST.java:18)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createObjectUsingPojo -->
+      </class> <!-- test.POJOTEST -->
+      <class name="test.OAuthTest">
+        <test-method signature="verifyOAuthAuthentication()[pri:0, instance:test.OAuthTest@2d3379b4]" started-at="2026-05-10T13:08:57 IST" name="verifyOAuthAuthentication" finished-at="2026-05-10T13:08:57 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOAuthAuthentication -->
+      </class> <!-- test.OAuthTest -->
+      <class name="test.HASHMAPTEST">
+        <test-method signature="createObjectUsingHashMap()[pri:0, instance:test.HASHMAPTEST@74235045]" started-at="2026-05-10T13:08:56 IST" name="createObjectUsingHashMap" finished-at="2026-05-10T13:08:57 IST" duration-ms="925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createObjectUsingHashMap -->
+      </class> <!-- test.HASHMAPTEST -->
+    </test> <!-- PetStore API Tests -->
+  </suite> <!-- PetStore API Test Suite -->
+</testng-results>
